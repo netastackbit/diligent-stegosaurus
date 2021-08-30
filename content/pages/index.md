@@ -11,6 +11,12 @@ sections:
       - label: Balsdkjfl
         url: /contact
         style: secondary
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        new_window: false
+        no_follow: false
+        type: action
     align: left
     image: /images/photo.JPG
     image_alt: Hero placeholder image
