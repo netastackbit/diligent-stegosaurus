@@ -24,7 +24,6 @@ sections:
         no_follow: false
         type: action
     align: left
-    image: /images/photo.JPG
     image_alt: Hero placeholder image
     image_position: right
     has_background: true
